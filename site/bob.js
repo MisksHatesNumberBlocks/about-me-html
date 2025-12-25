@@ -10,3 +10,4 @@ function a() {
  } else {
   img.src = "https://i.postimg.cc/bNfQvSvz/Screenshot-20251026-134358-Castle.png"
  }
+}
